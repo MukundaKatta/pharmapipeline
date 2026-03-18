@@ -74,6 +74,3 @@ src/
     └── mock-data.ts           # Sample pharmaceutical data
 ```
 
-## License
-
-MIT
